@@ -1,5 +1,6 @@
 # Heart-Disease-Diagnostic-Analysis
 This is the part of the INeuron Internship Project
+
 Poblem Statement ❓
 
 Health is real wealth in the pandemic time we all realized the brute effects of covid 19 on all irrespective of any status. You are required to analyse this health and medical data for better future preparation.
@@ -12,6 +13,7 @@ Business Intelligence
 Health Care
 # Dashboard Link
 Here you can check my dashboard  https://www.novypro.com/project/slug-6
+
 Programming language used - Python
 
 Tools 🛠 Jupyter Notebook, MS Excel, Tableau Public, Data studio.
